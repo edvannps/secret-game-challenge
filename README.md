@@ -1,4 +1,4 @@
-🖥️ # Projeto do Programa ONE - Oracle Next Education / Alura
+# 💻 Projeto do Programa ONE - Oracle Next Education / Alura
 
 📌 Este é um projeto teste realizado dentro do programa da Alura em parceria com a ONE - Oracle Next Education, que estão promovendo educação tecnológica e inclusão social através dele;
 📌 Durante uma das etapas do programa fomos provocados a utilizar o GitHub com plataforma para publicarmos o projeto;
